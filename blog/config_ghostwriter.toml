@@ -1,0 +1,45 @@
+baseurl = "http://durtchrt.github.com/blog"
+title = "개발 저장소"
+theme = "ghostwriter"
+languageCode = "en-us"
+copyright = "durtchrt"
+googleAnalytics = "UA-86354121-1"
+disqusShortname = ""
+
+[Author]
+    name = "durtchrt"
+    profile = "https://facebook.com/durtchrt"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "개발저장소"
+    description = "개발 관련 저장소입니다."
+    github = "https://github.com/durtchrt"
+    linkedin = "https://linkedin.com/in/XXX/"
+    opengraph = true
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 4
