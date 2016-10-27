@@ -1,4 +1,4 @@
-baseurl = "http://durtchrt.github.com/blog"
+baseurl = "http://durtchrt.github.io/blog"
 title = "개발 저장소"
 theme = "ghostwriter"
 languageCode = "en-us"
