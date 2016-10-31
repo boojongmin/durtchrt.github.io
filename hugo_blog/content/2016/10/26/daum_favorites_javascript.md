@@ -2,7 +2,7 @@
 title = "크롬에 자주사용하는 javascript 즐겨찾기로 추가하기"
 description = ""
 author = ""
-tags = [ "javascript", "daum" ]
+tags = [ "javascript", "favorite" ]
 date = "2016-10-26T18:19:58+09:00"
 
 +++
@@ -95,6 +95,4 @@ javascript:alert('Hello World!')
 
 페이지에서 alert창이 나오는 것을 볼수 있습니다.
 
-다음 포스트에서는 아래의 기능을하는 스크립트 소스를 올리겠습니다.
-
-![image](../all_menu.png)
+다음 포스트는 유용한 스크립트들 모음을 작성할 예정입니다.
