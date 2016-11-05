@@ -1,6 +1,6 @@
 baseurl = "http://durtchrt.github.io/blog/"
 title = "개발 저장소"
-theme = "ghostwriter"
+theme = "hugo_theme_robust"
 languageCode = "en-us"
 copyright = "durtchrt"
 googleAnalytics = "UA-86354121-1"
