@@ -1,5 +1,5 @@
 +++
-title = "4Clojure 문제 모음"
+title = "4Clojure 문제 모음 1 ~ 25"
 description = "4Clojure 문제 모음"
 author = "durtchrt"
 tags = [ "clojure", "4clojure", "question"  ]
