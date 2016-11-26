@@ -1,6 +1,7 @@
 +++
 title = "4Clojure 문제 모음 30 ~"
 description = "4Clojure 문제 모음"
+draft = true
 author = "durtchrt"
 tags = [ "clojure", "4clojure", "question"  ]
 date = "2016-11-22T18:22:01+09:00"
